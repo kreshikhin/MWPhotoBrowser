@@ -10,7 +10,6 @@
 		3F39184F1BDBBB2F00B6695D /* DACircularProgress.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F39184E1BDBBB2F00B6695D /* DACircularProgress.framework */; };
 		3F3918511BDBBB3100B6695D /* MBProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3918501BDBBB3100B6695D /* MBProgressHUD.framework */; };
 		3F3918531BDBBB3300B6695D /* WebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F3918521BDBBB3300B6695D /* WebImage.framework */; };
-		3F39185C1BDC3C9A00B6695D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3F39185B1BDC3C9A00B6695D /* Info.plist */; };
 		3F39185E1BDC3CB800B6695D /* MWPhotoBrowser.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F39185D1BDC3CB800B6695D /* MWPhotoBrowser.xcassets */; };
 		3F3918601BDC47F500B6695D /* MWBundlePath.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F39185F1BDC47F500B6695D /* MWBundlePath.m */; };
 		3F3918641BDC4D2E00B6695D /* MWBundlePath.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F3918631BDC4D2E00B6695D /* MWBundlePath.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -229,6 +228,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -247,7 +247,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F39185C1BDC3C9A00B6695D /* Info.plist in Resources */,
 				3F39185E1BDC3CB800B6695D /* MWPhotoBrowser.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
